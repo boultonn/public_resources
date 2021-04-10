@@ -2,7 +2,21 @@
 <html>
 	<head>
 		<title>Why is James not on Xbox</title>
-		<link rel="stylesheet" href="style.css">
+		<style>
+			h1 {
+     			   color: #666666;
+   			     font-weight: bold;
+   			     font-size: 20pt;
+			}
+			h2 {
+				color: grey;
+			}
+			body {
+				text-align: center;
+				font-family: arial;
+				background-color: black;
+			}
+		</style>
 	</head>
 	<body>
 		<section>
