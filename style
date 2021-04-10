@@ -1,0 +1,64 @@
+h1 {
+	color: #666666;
+	font-weight: bold;
+	font-size: 20pt;
+}
+h2 {
+	color: grey;
+}
+p {
+	font-size: 10pt;
+	color: black;
+}
+body {
+	text-align: center;
+	font-family: arial;
+	background-color: black;
+}
+
+footer {
+	clear:both;	
+	font-size: 8pt;
+	color: white;
+}
+
+ul {
+	list-style: none;
+	font-color: white;
+	margin: auto;
+	font-size: 14pt;
+}
+table, th, td {
+	margin: auto;
+	border-collapse: collapse;
+	//border-spacing: 50px 30px;
+	padding: 10px 40px;
+	border: 1px solid grey;	
+	color: grey;
+
+}
+a:link, a:visited {
+	color: red;
+}
+#internal {
+	float:left;
+	width:550px;
+}
+#development {
+	float:left;
+	width:550px;
+}
+#external {
+	float:left;	
+	width:550px;
+	padding-left: 20px;
+}
+.container {
+	width:1680px;
+	margin:auto;
+	padding-top: 20px;
+	padding-left: 15px;
+	padding-right: 15px;
+	//min-width: 600px;
+	//overflow: scroll;
+}
