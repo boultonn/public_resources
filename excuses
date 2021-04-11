@@ -22,6 +22,8 @@
                        "At the Zoom pub", 
                        "I can smell dinner", 
                        "My Xbox has gone into a state of idle", 
+		       "Waiting for the bread to cook", 
+		       "Putting the cutlery away", 
                        "Convincing Steph to cook tacos");
         $rand_keys = array_rand($input, 2);
         echo $input[$rand_keys[0]] . "\n";
