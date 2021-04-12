@@ -25,6 +25,7 @@
 		       "Waiting for the bread to cook", 
 		       "Putting the cutlery away", 
 		       "Digging an asparagus bed", 
+		       "Examining my aubergine", 
                        "Convincing Steph to cook tacos");
         $rand_keys = array_rand($input, 2);
         echo $input[$rand_keys[0]] . "\n";
