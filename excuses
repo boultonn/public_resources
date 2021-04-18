@@ -26,7 +26,7 @@
 		       "Putting the cutlery away", 
 		       "Digging an asparagus bed", 
 		       "Examining my aubergine", 
-		       "Making slow cooker pulled pork tacos", 
+		       "Making some slow cooker pulled pork tacos", 
                        "Convincing Steph to cook tacos");
         $rand_keys = array_rand($input, 2);
         echo $input[$rand_keys[0]] . "\n";
