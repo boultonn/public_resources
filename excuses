@@ -11,7 +11,8 @@
         <?php
         $input = array("Digging up a raspberry patch", 
                        "Running a bath for someone", 
-                       "Cooking a paella", "Watching Taskmaster", 
+                       "Cooking a paella", 
+		       "Watching Taskmaster", 
                        "Been at the allotment", 
                        "Going out for a wander", 
                        "Taking pictures of a vegetable risotto", 
@@ -27,6 +28,9 @@
 		       "Digging an asparagus bed", 
 		       "Just sitting down for dinner", 
 		       "Examining my aubergine", 
+		       "Going to the postbox", 
+		       "STILL watching Taskmaster", 
+		       "Taking an hour to eat dinner", 
 		       "Making some slow cooker pulled pork tacos", 
                        "Convincing Steph to cook tacos");
         $rand_keys = array_rand($input, 2);
