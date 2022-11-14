@@ -35,7 +35,9 @@
 		       "Planning my meals during the GP", 
 		       "STILL watching Taskmaster", 
 		       "Taking an hour to eat dinner", 
-		       "Making some slow cooker pulled pork tacos", 
+		       "Making some slow cooker pulled pork tacos",
+		       "Writing our wedding thank yous",
+		       "I am monitoring a change",
 		       "Getting a ferry to Belfast", 
                        "Convincing Steph to cook tacos");
         $rand_keys = array_rand($input, 2);
