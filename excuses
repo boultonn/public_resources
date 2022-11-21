@@ -41,6 +41,7 @@
 		       "Getting a ferry to Belfast", 
 		       "Theres a fish course...",
 		       "Skyping my parents as usual",
+		       "Seeing Black Panther 2",
                        "Convincing Steph to cook tacos");
         $rand_keys = array_rand($input, 2);
         echo $input[$rand_keys[0]] . "\n";
